@@ -11,3 +11,8 @@
 
 - [ ] Todo
 - [x] Done
+
+```python
+s = "Python Syntax Highlighting"
+print(s)
+```
