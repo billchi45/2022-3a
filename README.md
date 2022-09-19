@@ -7,4 +7,7 @@
 
 :joy:
 
-[![NKUST](nkust.png)]
+![NKUST](nkust.png)
+
+- [ ] Todo
+- [x] Done
